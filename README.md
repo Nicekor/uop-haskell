@@ -13,10 +13,14 @@ This repo is for all Haskell worksheets provided in the MathFun unit as well as 
   * Local Definitions
 
 ## Pract03
-* Pattern Matching and Recursion
+* Pattern Matching
+* Recursion
 
 ## Pract04
-* Strings, Tuples and Lists
+* Strings
+* Tuples
+* Lists
 
 ## Pract05
-* List patterns and recursion
+* List patterns
+* Recursion over lists
