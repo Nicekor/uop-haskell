@@ -24,3 +24,9 @@ This repo is for all Haskell worksheets provided in the MathFun unit as well as 
 ## Pract05
 * List patterns
 * Recursion over lists
+
+## Pract06
+* Functions as Values/Arguments
+* Use of map, filter and foldr
+* Higher-Order Functions
+* Use of lambda expressions
